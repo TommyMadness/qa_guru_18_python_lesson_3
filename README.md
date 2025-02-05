@@ -1,3 +1,5 @@
-qa_guru_18_python_lesson_3
+# Проект qa_guru_18_python_lesson_3
 
 Добавлена тестовая строка
+
+Добавлена тестовая строка из PyCharm
